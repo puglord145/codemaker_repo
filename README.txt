@@ -1,3 +1,3 @@
 //README.txt
 
-this is a repo for codmakers 
+this is a repo for codemakers 
